@@ -2,9 +2,9 @@
   "swagger" : "2.0",
   "info" : {
     "version" : "2.2",
-    "title" : "OPEX API"
+    "title" : "XCRYPT API"
   },
-  "host" : "http://www.devkube.com",
+  "host" : "https://trade.xcrypt.pro",
   "basePath" : "/api/v2",
   "tags" : [ {
     "name" : "public",
